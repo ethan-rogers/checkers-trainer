@@ -1,3 +1,0 @@
-C:/Users/eholt/Documents/coding_projects/in_development/checkers-trainer/build/CMakeFiles/app.dir
-C:/Users/eholt/Documents/coding_projects/in_development/checkers-trainer/build/CMakeFiles/edit_cache.dir
-C:/Users/eholt/Documents/coding_projects/in_development/checkers-trainer/build/CMakeFiles/rebuild_cache.dir
